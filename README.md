@@ -2,7 +2,7 @@
 
 We're reading a new book every month and meeting every Tuesday at 1pm Pacifc Time to discuss it!
 
-[RSVP for the next discussion on LinkedIn (2/20/24)](https://www.linkedin.com/events/aibookclub-implementingmlopsint7163339664098099202/comments/)
+[RSVP for the next discussion on LinkedIn (2/27/24)](https://www.linkedin.com/events/aibookclub-implementingmlopsint7165191327201026048/comments/)
 
 ## Currently Reading
 
