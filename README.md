@@ -15,7 +15,7 @@ Joining the AI Builders & Learners Meetup can help keep tabs on upcoming meeting
 
 ## Coming up:
 
-Generative AI on AWS
+March 2024: Generative AI on AWS
 
 
 ## Past Books:
