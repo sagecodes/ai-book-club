@@ -6,12 +6,11 @@ See all upcoming events on the [AI Builders and Learners Meetup](https://www.mee
 
 Or join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/)
 
-## Currently Reading
-
-### [Implementing MLOps in the Enterprise](https://learning.oreilly.com/library/view/implementing-mlops-in/9781098136574/)
+## Currently Reading: Implementing MLOps in the Enterprise
 
 [RSVP for the next discussion on LinkedIn (2/27/24)](https://www.linkedin.com/events/aibookclub-implementingmlopsint7165191327201026048/comments/)
 
+Learn more about the book here: [https://learning.oreilly.com/library/view/implementing-mlops-in/9781098136574/](https://learning.oreilly.com/library/view/implementing-mlops-in/9781098136574/)
 
 
 ## Coming up:
