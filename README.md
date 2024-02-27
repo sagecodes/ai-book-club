@@ -2,18 +2,17 @@
 
 We're reading a new book every month and meeting every(almost) Tuesday at 1pm Pacific Time to discuss it on a LinkedIn Audio event.
 
+See all upcoming events on the [AI Builders and Learners Meetup](https://www.meetup.com/ai-builders-and-learners-seattle/)
+
+Or join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/)
+
 ## Currently Reading
 
 ### [Implementing MLOps in the Enterprise](https://learning.oreilly.com/library/view/implementing-mlops-in/9781098136574/)
 
 [RSVP for the next discussion on LinkedIn (2/27/24)](https://www.linkedin.com/events/aibookclub-implementingmlopsint7165191327201026048/comments/)
 
-See all upcoming events on the [AI Builders and Learners Meetup](https://www.meetup.com/ai-builders-and-learners-seattle/)
 
-
-Or join the "ai-book-club channel" in the Flyte MLOps Slack,
-
-Joining the AI Builders & Learners Meetup can help keep tabs on upcoming meetings
 
 ## Coming up:
 
