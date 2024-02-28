@@ -6,16 +6,16 @@ See all upcoming events on the [AI Builders and Learners Meetup](https://www.mee
 
 Or join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/)
 
-## Currently Reading: Implementing MLOps in the Enterprise
+## Currently Reading: Generative AI on AWS
 
-[RSVP for the next discussion on LinkedIn (2/27/24)](https://www.linkedin.com/events/aibookclub-implementingmlopsint7165191327201026048/comments/)
+[RSVP for the next discussion on LinkedIn (3/5/24)](https://www.linkedin.com/events/aibookclub-generativeaionaws-we7168433727948140545/comments/)
 
-Learn more about the book here: [https://learning.oreilly.com/library/view/implementing-mlops-in/9781098136574/](https://learning.oreilly.com/library/view/implementing-mlops-in/9781098136574/)
+Learn more about the book [here](https://learning.oreilly.com/library/view/generative-ai-on/9781098159214/).
 
 
 ## Coming up:
 
-March 2024: [Generative AI on AWS](https://learning.oreilly.com/library/view/generative-ai-on/9781098159214/)
+- TBD
 
 
 ## Past Books:
