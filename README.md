@@ -4,7 +4,7 @@ We're reading a new book every month and meeting every(almost) Tuesday at 1pm Pa
 
 See all upcoming events on the [AI Builders and Learners Meetup](https://www.meetup.com/ai-builders-and-learners-seattle/)
 
-Or join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/)
+Or join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/) to discuss anytime!
 
 ## Currently Reading: Generative AI on AWS
 
