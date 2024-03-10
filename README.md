@@ -8,7 +8,7 @@ Or join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyt
 
 ## Currently Reading: Generative AI on AWS
 
-[RSVP for the next discussion on LinkedIn (3/5/24)](https://www.linkedin.com/events/aibookclub-generativeaionaws-we7168433727948140545/comments/)
+[RSVP for the next discussion on LinkedIn (3/12/24)](https://www.linkedin.com/events/aibookclub-generativeaionaws-we7171928013159194624/comments/)
 
 Learn more about the book [here](https://learning.oreilly.com/library/view/generative-ai-on/9781098159214/).
 
