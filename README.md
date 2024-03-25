@@ -15,7 +15,10 @@ Learn more about the book [here](https://learning.oreilly.com/library/view/gener
 
 ## Coming up:
 
-- TBD
+- April 2024: Grokking Deep Learning | [O'reilly](https://learning.oreilly.com/library/view/grokking-deep-learning/9781617293702/) | [Manning](https://www.manning.com/books/grokking-deep-learning) | [Amazon](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709/)
+- 
+
+
 
 
 ## Past Books:
