@@ -4,7 +4,7 @@ We're reading a new book every month and meeting every(almost) Tuesday at 1pm Pa
 
 📅 See all upcoming events on the [AI Builders and Learners Meetup](https://www.meetup.com/ai-builders-and-learners-seattle/)
 
-💬 Or join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/) to discuss anytime!
+💬 Join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/) to discuss anytime!
 
 ## Currently Reading: Grokking Deep Learning by Andrew Trask
 
@@ -14,13 +14,13 @@ Learn more about the book: [O'reilly](https://learning.oreilly.com/library/view/
 ## Coming up:
 
 - April 2024: Grokking Deep Learning | [O'reilly](https://learning.oreilly.com/library/view/grokking-deep-learning/9781617293702/) | [Manning](https://www.manning.com/books/grokking-deep-learning) | [Amazon](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709/)
-- May 2024: Reliable Machine Learning
-- June 2024:
-- July 2024
-- Augest 2024:
-- September 2024:
-- October 2024:
-- November 2024:
+- May 2024: Reliable Machine Learning | [O'reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
+- June 2024: Developing Apps with GPT-4 and ChatGPT | [O'reilly](https://learning.oreilly.com/library/view/developing-apps-with/9781098152475/)
+- July 2024: 
+- Augest 2024: 
+- September 2024: 
+- October 2024: 
+- November 2024: 
 - December 2024: 
 
 
