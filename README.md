@@ -20,7 +20,7 @@ Learn more about the book: [O'reilly](https://learning.oreilly.com/library/view/
 - May 2024: Reliable Machine Learning | [O'reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/) 
 - June 2024: Developing Apps with GPT-4 and ChatGPT | [O'reilly](https://learning.oreilly.com/library/view/developing-apps-with/9781098152475/)
 - July 2024: 
-- Augest 2024: 
+- August 2024: 
 - September 2024: 
 - October 2024: 
 - November 2024: 
