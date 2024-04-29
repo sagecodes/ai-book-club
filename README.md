@@ -6,7 +6,7 @@ We're reading a new book every month and meeting every(almost) Tuesday at 1pm Pa
 
 💬 Join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/) to discuss anytime!
 
-🟢 Currently Reading: <b>Grokking Deep Learning</b> by Andrew Trask | [O'reilly](https://learning.oreilly.com/library/view/grokking-deep-learning/9781617293702/) | [Manning](https://www.manning.com/books/grokking-deep-learning) | [Amazon](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709/) 
+🟢 Currently Reading: <b> 🟢 May 2024: Reliable Machine Learning </b>| [O'reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
 
 
 ## 2024 AI Book Clud Reading List:
