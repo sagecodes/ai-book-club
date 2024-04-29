@@ -14,8 +14,8 @@ We're reading a new book every month and meeting every(almost) Tuesday at 1pm Pa
 - <strike> Jan 2024: [Designing Machine Learning Systems](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/) </strike>
 - <strike> Feb 2024: [Implementing MLOps in the Enterprise](https://learning.oreilly.com/library/view/implementing-mlops-in/9781098136574/) </strike>
 - <strike> March 2024: [Generativce AI on AWS](https://learning.oreilly.com/library/view/generative-ai-on/9781098159214/) </strike>
-- <b> 🟢 April 2024: Grokking Deep Learning | [O'reilly](https://learning.oreilly.com/library/view/grokking-deep-learning/9781617293702/) | [Manning](https://www.manning.com/books/grokking-deep-learning) | [Amazon](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709/) </b>
-- May 2024: Reliable Machine Learning | [O'reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/) 
+- <strike>  April 2024: Grokking Deep Learning | [O'reilly](https://learning.oreilly.com/library/view/grokking-deep-learning/9781617293702/) | [Manning](https://www.manning.com/books/grokking-deep-learning) | [Amazon](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709/) </strike>
+- <b> 🟢 May 2024: Reliable Machine Learning | [O'reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/) </b>
 - June 2024: Developing Apps with GPT-4 and ChatGPT | [O'reilly](https://learning.oreilly.com/library/view/developing-apps-with/9781098152475/)
 - July 2024: 
 - August 2024: 
