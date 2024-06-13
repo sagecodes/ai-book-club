@@ -21,7 +21,7 @@ We're reading a new book every month and meeting every(almost) Tuesday at 1pm Pa
 - August 2024: 
 - September 2024: 
 - October 2024: 
-- November 2024: 
+- November 2024: The Kaggle Book [O'reilly](https://learning.oreilly.com/library/view/the-kaggle-book/9781801817479/)
 - December 2024: 
 
 
