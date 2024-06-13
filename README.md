@@ -6,7 +6,7 @@ We're reading a new book every month and meeting every(almost) Tuesday at 1pm Pa
 
 💬 Join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/) to discuss anytime!
 
-🟢 Currently Reading: <b> Reliable Machine Learning </b>| [O'reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
+🟢 Currently Reading: <b> Developing Apps with GPT-4 and ChatGPT | [O'reilly](https://learning.oreilly.com/library/view/developing-apps-with/9781098152475/) </b>
 
 
 ## 2024 AI Book Clud Reading List:
