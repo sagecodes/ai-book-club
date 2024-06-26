@@ -4,9 +4,9 @@ We're reading a new book every month and meeting every(almost) Tuesday at 1pm Pa
 
 📅 See all upcoming events on the [AI Builders and Learners Meetup](https://www.meetup.com/ai-builders-and-learners-seattle/)
 
-💬 Join the "ai-book-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/) to discuss anytime!
+💬 Join the "ai-reading-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/) to discuss anytime!
 
-🟢 Currently Reading: <b> Developing Apps with GPT-4 and ChatGPT | [O'reilly](https://learning.oreilly.com/library/view/developing-apps-with/9781098152475/) </b>
+🟢 Currently Reading:<b> July 2024: Prompt Engineering for Generative AI | [O'reilly](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) </b>
 
 
 ## 2024 AI Book Clud Reading List:
