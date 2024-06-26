@@ -16,8 +16,8 @@ We're reading a new book every month and meeting every(almost) Tuesday at 1pm Pa
 - <strike> March 2024: </strike> [Generativce AI on AWS](https://learning.oreilly.com/library/view/generative-ai-on/9781098159214/)
 - <strike>  April 2024: </strike> Grokking Deep Learning | [O'reilly](https://learning.oreilly.com/library/view/grokking-deep-learning/9781617293702/) | [Manning](https://www.manning.com/books/grokking-deep-learning) | [Amazon](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709/)
 - <strike> May 2024: </strike>  Reliable Machine Learning | [O'reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
-- 🟢 <b> June 2024: Developing Apps with GPT-4 and ChatGPT | [O'reilly](https://learning.oreilly.com/library/view/developing-apps-with/9781098152475/)  </b>
-- July 2024: 
+- June 2024: Developing Apps with GPT-4 and ChatGPT | [O'reilly](https://learning.oreilly.com/library/view/developing-apps-with/9781098152475/)  
+- 🟢 <b> July 2024: Prompt Engineering for Generative AI | [O'reilly](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) </b>
 - August 2024: 
 - September 2024: 
 - October 2024: 
