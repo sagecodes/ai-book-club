@@ -9,7 +9,7 @@ We read a new book every month
 🟢 Currently Reading:<b> July 2024: Prompt Engineering for Generative AI | [O'reilly](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) </b>
 
 
-## 2024 AI Book Clud Reading List:
+## 2024 AI Book Club Reading List:
 
 - <strike> Jan 2024: </strike> [Designing Machine Learning Systems](https://learning.oreilly.com/library/view/designing-machine-learning/9781098107956/)
 - <strike> Feb 2024: </strike> [Implementing MLOps in the Enterprise](https://learning.oreilly.com/library/view/implementing-mlops-in/9781098136574/)
