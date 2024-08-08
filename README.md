@@ -20,7 +20,7 @@ We read a new book every month
 - <strike> July 2024: </strike> Prompt Engineering for Generative AI | [O'reilly](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) 
 - 🟢 <b> August 2024: Transformers for Natural Language Processing and Computer Vision - Third Edition | [O'reilly](https://learning.oreilly.com/library/view/transformers-for-natural/9781805128724/) </b>
 - September 2024: Fundamentals of Data Engineering | [O'reilly](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
-- October 2024: 
+- October 2024: Building Recommendation Systems in Python and JAX [O'reilly](https://www.oreilly.com/library/view/building-recommendation-systems/9781492097983/)
 - November 2024: The Kaggle Book [O'reilly](https://learning.oreilly.com/library/view/the-kaggle-book/9781801817479/)
 - December 2024: 
 
