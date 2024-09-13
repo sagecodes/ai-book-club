@@ -22,7 +22,7 @@ We read a new book every month
 - 🟢 <b> September 2024: Fundamentals of Data Engineering | [O'reilly](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/) </b>
 - October 2024: Building Recommendation Systems in Python and JAX [O'reilly](https://www.oreilly.com/library/view/building-recommendation-systems/9781492097983/)
 - November 2024: The Kaggle Book [O'reilly](https://learning.oreilly.com/library/view/the-kaggle-book/9781801817479/)
-- December 2024: 
+- December 2024: Build a Large Language Model (From Scratch) | 
 
 
 
