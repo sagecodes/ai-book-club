@@ -18,10 +18,10 @@ We read a new book every month
 - <strike> May 2024: </strike>  Reliable Machine Learning | [O'reilly](https://learning.oreilly.com/library/view/reliable-machine-learning/9781098106218/)
 - <strike> June 2024: </strike> Developing Apps with GPT-4 and ChatGPT | [O'reilly](https://learning.oreilly.com/library/view/developing-apps-with/9781098152475/)  
 - <strike> July 2024: </strike> Prompt Engineering for Generative AI | [O'reilly](https://www.oreilly.com/library/view/prompt-engineering-for/9781098153427/) 
-- August 2024: Transformers for Natural Language Processing and Computer Vision - Third Edition | [O'reilly](https://learning.oreilly.com/library/view/transformers-for-natural/9781805128724/)
-- September 2024: Fundamentals of Data Engineering | [O'reilly](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
-- October 2024: Building Recommendation Systems in Python and JAX [O'reilly](https://www.oreilly.com/library/view/building-recommendation-systems/9781492097983/) 
-- November 2024: The Kaggle Book [O'reilly](https://learning.oreilly.com/library/view/the-kaggle-book/9781801817479/)
+- <strike> August 2024: </strike>Transformers for Natural Language Processing and Computer Vision - Third Edition | [O'reilly](https://learning.oreilly.com/library/view/transformers-for-natural/9781805128724/)
+- <strike> September 2024: </strike>Fundamentals of Data Engineering | [O'reilly](https://learning.oreilly.com/library/view/fundamentals-of-data/9781098108298/)
+- <strike> October 2024: </strike>Building Recommendation Systems in Python and JAX [O'reilly](https://www.oreilly.com/library/view/building-recommendation-systems/9781492097983/) 
+- <strike> November 2024: </strike>The Kaggle Book [O'reilly](https://learning.oreilly.com/library/view/the-kaggle-book/9781801817479/)
 - 🟢 <b> December 2024: Build a Large Language Model (From Scratch) | [O'reilly](https://learning.oreilly.com/library/view/build-a-large/9781633437166/)</b>
 
 
