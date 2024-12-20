@@ -8,6 +8,11 @@ We read a new book every month
 
 🟢 Currently Reading:<b> December 2024: Build a Large Language Model (From Scratch) | [See more on O'reilly](https://learning.oreilly.com/library/view/build-a-large/9781633437166/)</b>
 
+## 2025 AI Book Club Reading List:
+- Jan 2025: Building LLMs for Production
+- Feb 2025: RAG-Driven Generative AI
+- Mar 2025: AI Engineering
+
 
 ## 2024 AI Book Club Reading List:
 
