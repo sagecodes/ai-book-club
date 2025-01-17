@@ -6,7 +6,7 @@ We read a new book every month
 
 💬 Join the "ai-reading-club channel" in the [Flyte MLOps Slack](https://slack.flyte.org/) to discuss anytime!
 
-🟢 Currently Reading:<b> December 2024: Build a Large Language Model (From Scratch) | [See more on O'reilly](https://learning.oreilly.com/library/view/build-a-large/9781633437166/)</b>
+🟢 Currently Reading:<b> Building LLMs for Production </b>
 
 ## 2025 AI Book Club Reading List:
 
