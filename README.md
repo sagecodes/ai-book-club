@@ -12,8 +12,7 @@ We read a new book every month
 
 ### Jan 2025: Building LLMs for Production
 1/21/25 1pm PT
-- LinkedIn
-- YouTube
+LinkedIn Live: https://www.linkedin.com/events/7273413966280683520/comments/
 
 ### Feb 2025: RAG-Driven Generative AI
 
