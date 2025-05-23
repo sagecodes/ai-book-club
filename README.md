@@ -15,26 +15,20 @@
 ---
 
 ## 🟢 **Currently Reading:**  
-**Feb 2025: [RAG-Driven Generative AI](https://learning.oreilly.com/library/view/rag-driven-generative-ai/9781836200918/) By Denis Rothman**    
+**May 2025: [Hands-On APIs for AI and Data Science](https://learning.oreilly.com/library/view/hands-on-apis-for/9781098164409/) By Ryan Day**    
 
 ---
 
 ## 📖 **2025 AI Book Club Reading List:**  
 
-### ✅ **Jan 2025: [Building LLMs for Production](https://learning.oreilly.com/library/view/building-llms-for/9798324731472/) By Louis-Francois Bouchard, Louie Peters**  
-📅 **1/21/25 @ 1 PM PT** – Join live or watch the recordings:  
-- 🔗 [LinkedIn Live](https://www.linkedin.com/events/7273413966280683520/comments/)  
-- 🎥 [YouTube](https://www.youtube.com/watch?v=rFdW_jZHYeQ)  
-
-### 🟢 **Feb 2025: [RAG-Driven Generative AI](https://learning.oreilly.com/library/view/rag-driven-generative-ai/9781836200918/) By Denis Rothman**  
-📅 **2/25/25 @ 1 PM PT** – Join live or watch the recordings:  
-- 🔗 [LinkedIn Live](https://www.linkedin.com/events/7278546143876104192/)  
-- 🎥 [YouTube](https://www.youtube.com/watch?v=s9F56ZADpyw)  
-
-### **Mar 2025: [AI Engineering](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/) By Chip Huyen**  
-📅 **3/25/25 @ 1 PM PT** – Join live or watch the recordings:  
-- 🔗 [LinkedIn Live](https://www.linkedin.com/events/7280355408790085632/)  
-- 🎥 [YouTube](https://www.youtube.com/watch?v=SfdLD6QMN-M)  
+- 📗 **Jan 2025: [Building LLMs for Production](https://learning.oreilly.com/library/view/building-llms-for/9798324731472/) By Louis-Francois Bouchard, Louie Peters**  | 🎥 [Recording](https://www.youtube.com/watch?v=rFdW_jZHYeQ)  
+- 📗 **Feb 2025: [RAG-Driven Generative AI](https://learning.oreilly.com/library/view/rag-driven-generative-ai/9781836200918/) By Denis Rothman** | 🎥 [Recording](https://www.youtube.com/watch?v=s9F56ZADpyw)  
+- 📗 **Mar 2025: [AI Engineering](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/) By Chip Huyen** | 🎥 [Recording](https://www.youtube.com/watch?v=SfdLD6QMN-M)
+- 📗 **Apr 2025: [AI Book Club: AI Agents in Action](https://www.manning.com/books/ai-agents-in-action) By Micheal Lanham** | 🎥 [Recording](https://www.youtube.com/watch?v=iOqvrgxQBSM)  
+- 📖 **May 2025: [Hands-On APIs for AI and Data Science](https://learning.oreilly.com/library/view/hands-on-apis-for/9781098164409/) By Ryan Day** | 📅 [Join Live!](https://www.linkedin.com/events/7309440977713147904/comments/) 
+- 📘 **June 2025: [The Hundred-Page Language Models Book: hands-on with PyTorch](https://thelmbook.com/) By Andriy Burkov** | 📅 [Join Live!](https://www.linkedin.com/events/7322432800874188800/comments/) 
+- 📘 **July 2025: [Reinforcement Learning for Finance](https://learning.oreilly.com/library/view/hands-on-apis-for/9781098164409/) By Yves Hilpisch** | 📅 [Join Live!](https://www.linkedin.com/events/7324939363862089728/comments/) 
+- 📘 **May 2025: [AI Book Club: Building Agentic AI Systems](https://learning.oreilly.com/library/view/hands-on-apis-for/9781098164409/) By Anjanava Biswas, Wrick Talukdar** | 📅 [Join Live!](https://www.meetup.com/ai-builders-and-learners-sf/events/307594787/)  
 
 ---
 
