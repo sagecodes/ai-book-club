@@ -28,7 +28,7 @@
 - 📖 **May 2025: [Hands-On APIs for AI and Data Science](https://learning.oreilly.com/library/view/hands-on-apis-for/9781098164409/) By Ryan Day** | 📅 [Join Live!](https://www.linkedin.com/events/7309440977713147904/comments/) 
 - 📘 **June 2025: [The Hundred-Page Language Models Book: hands-on with PyTorch](https://thelmbook.com/) By Andriy Burkov** | 📅 [Join Live!](https://www.linkedin.com/events/7322432800874188800/comments/) 
 - 📘 **July 2025: [Reinforcement Learning for Finance](https://learning.oreilly.com/library/view/hands-on-apis-for/9781098164409/) By Yves Hilpisch** | 📅 [Join Live!](https://www.linkedin.com/events/7324939363862089728/comments/) 
-- 📘 **May 2025: [AI Book Club: Building Agentic AI Systems](https://learning.oreilly.com/library/view/hands-on-apis-for/9781098164409/) By Anjanava Biswas, Wrick Talukdar** | 📅 [Join Live!](https://www.meetup.com/ai-builders-and-learners-sf/events/307594787/)  
+- 📘 **August 2025: [AI Book Club: Building Agentic AI Systems](https://learning.oreilly.com/library/view/hands-on-apis-for/9781098164409/) By Anjanava Biswas, Wrick Talukdar** | 📅 [Join Live!](https://www.meetup.com/ai-builders-and-learners-sf/events/307594787/)  
 
 ---
 
