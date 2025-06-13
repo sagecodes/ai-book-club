@@ -8,7 +8,7 @@
 - **During live events**, participate in the **live chat** or even **join the livestream** to share your thoughts.  
 - **Prefer ongoing discussions?** Join the **"ai-reading-club"** channel in the [Flyte MLOps Slack](https://slack.flyte.org/) to chat anytime.  
 
-📅 **Want to stay updated?** Join the [AI Builders and Learners Meetup](https://www.meetup.com/ai-builders-and-learners-seattle/) for future announcements.  
+📅 **Want to stay updated?** Join the [AI Builders and Learners Luma Calendar](https://lu.ma/ai-builders-and-learners) for future announcements.  
 
 📚 **See upcoming and past books below!**  
 
