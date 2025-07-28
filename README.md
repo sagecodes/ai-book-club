@@ -28,7 +28,12 @@
 - 📗 **May 2025: [Hands-On APIs for AI and Data Science](https://learning.oreilly.com/library/view/hands-on-apis-for/9781098164409/) By Ryan Day** | 📅 [Join Live!](https://www.linkedin.com/events/7309440977713147904/comments/) 
 - 📗 **June 2025: [The Hundred-Page Language Models Book: hands-on with PyTorch](https://thelmbook.com/) By Andriy Burkov** | 📅 [Join Live!](https://www.linkedin.com/events/7322432800874188800/comments/) 
 - 📖 **July 2025: [Reinforcement Learning for Finance](https://learning.oreilly.com/library/view/reinforcement-learning-for/9781098169169/) By Yves Hilpisch** | 📅 [Join Live!](https://www.linkedin.com/events/7324939363862089728/comments/) 
-- 📘 **August 2025: [AI Book Club: Building Agentic AI Systems](https://learning.oreilly.com/library/view/building-agentic-ai/9781803238753/) By Anjanava Biswas, Wrick Talukdar** | 📅 [Join Live!](https://www.meetup.com/ai-builders-and-learners-sf/events/307594787/)  
+- 📘 **August 2025: [Building Agentic AI Systems](https://learning.oreilly.com/library/view/building-agentic-ai/9781803238753/) By Anjanava Biswas, Wrick Talukdar** | 📅 [Join Live!](https://www.meetup.com/ai-builders-and-learners-sf/events/307594787/)
+- 📘 **September 2025: [LLMOps]([https://learning.oreilly.com/library/view/building-agentic-ai/9781803238753/)](https://learning.oreilly.com/library/view/llmops/9781098154196/) By Abi Aryan** | 📅 Event coming soon
+- 📘 **October 2025: TBD | 📅 Event coming soon
+- 📘 **November 2025: TBD | 📅 Event coming soon
+- 📘 **December 2025: TBD | 📅 Event coming soon 
+
 
 ---
 
