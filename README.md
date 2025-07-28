@@ -30,7 +30,7 @@
 - 📖 **July 2025: [Reinforcement Learning for Finance](https://learning.oreilly.com/library/view/reinforcement-learning-for/9781098169169/) By Yves Hilpisch** | 📅 [Join Live!](https://www.linkedin.com/events/7324939363862089728/comments/) 
 - 📘 **August 2025: [Building Agentic AI Systems](https://learning.oreilly.com/library/view/building-agentic-ai/9781803238753/) By Anjanava Biswas, Wrick Talukdar** | 📅 [Join Live!](https://www.meetup.com/ai-builders-and-learners-sf/events/307594787/)
 - 📘 **September 2025: [LLMOps](https://learning.oreilly.com/library/view/llmops/9781098154196/)By Abi Aryan** | 📅 Event coming soon
-- 📘 **October 2025: TBD | 📅 Event coming soon
+- 📘 **October 2025: [Deep Learning for Biolog](https://learning.oreilly.com/library/view/deep-learning-for/9781098168025/) by Charles Ravarani, Natasha Latysheva | 📅 Event coming soon
 - 📘 **November 2025: TBD | 📅 Event coming soon
 - 📘 **December 2025: TBD | 📅 Event coming soon 
 
