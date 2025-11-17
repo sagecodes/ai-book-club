@@ -15,7 +15,7 @@
 ---
 
 ## 🟢 **Currently Reading:**  
-**July 2025: [Reinforcement Learning for Finance](https://learning.oreilly.com/library/view/reinforcement-learning-for/9781098169169/) By Yves Hilpisch** | 📅 [Join Live!](https://www.linkedin.com/events/7324939363862089728/comments/)   
+📖 **November 2025: [Deep Learning for Biology](https://learning.oreilly.com/library/view/deep-learning-for/9781098168025/) by Charles Ravarani, Natasha Latysheva | 📅 [Join Live!](https://luma.com/ai-builders-and-learners)
 
 ---
 
