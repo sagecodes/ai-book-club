@@ -31,8 +31,8 @@
 - 📗 **August 2025: [Building Agentic AI Systems](https://learning.oreilly.com/library/view/building-agentic-ai/9781803238753/) By Anjanava Biswas, Wrick Talukdar** | 📅 [Join Live!](https://www.meetup.com/ai-builders-and-learners-sf/events/307594787/)
 - 📗 **September 2025: Conversational AI | | 📅 [Join Live!](https://luma.com/6fp9b9zd) 
 - 📗 **October 2025: [LLMOps](https://learning.oreilly.com/library/view/llmops/9781098154196/)By Abi Aryan** | 📅 [Join Live!](https://luma.com/brbxklqo)
-- 📖 **November 2025: [Deep Learning for Biology](https://learning.oreilly.com/library/view/deep-learning-for/9781098168025/) by Charles Ravarani, Natasha Latysheva | 📅 [Join Live!](https://luma.com/ai-builders-and-learners)
-- 📘 **December 2025: TBD | 📅 Event coming soon 
+- 📗 **November 2025: [Deep Learning for Biology](https://learning.oreilly.com/library/view/deep-learning-for/9781098168025/) by Charles Ravarani, Natasha Latysheva | 📅 [Join Live!](https://luma.com/ai-builders-and-learners)
+- 📖 **December 2025: [Building Applications with AI Agents](https://learning.oreilly.com/library/view/building-applications-with/9781098176495/) | 📅 [Join Live!](https://luma.com/kfdhtjn9)
 
 
 ---
