@@ -18,7 +18,7 @@
 📖 **December 2025: [Building Applications with AI Agents](https://learning.oreilly.com/library/view/building-applications-with/9781098176495/)**
 
 ---
-## 📖 **2025 AI Book Club Reading List:**  
+## 📖 **2026 AI Book Club Reading List:**  
 - 📗 **Jan 2026: [Hands-On Machine Learning with Scikit-Learn and PyTorch
 ](https://learning.oreilly.com/library/view/building-llms-for/9798324731472/) By Aurélien Géron**  | 📅 [Join Live!](https://luma.com/icapnnju9)
 - 📗 **Feb 2026: [AI Systems Performance Engineering](https://learning.oreilly.com/library/view/ai-systems-performance/9798341627772/) By Chris Fregly** | 📅 [Join Live!](https://luma.com/r217e3a3)
