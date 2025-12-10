@@ -22,7 +22,7 @@
 - 📗 **Jan 2026: [Hands-On Machine Learning with Scikit-Learn and PyTorch
 ](https://learning.oreilly.com/library/view/building-llms-for/9798324731472/) By Aurélien Géron**  | 📅 [Join Live!](https://luma.com/icapnnju9)
 - 📗 **Feb 2026: [AI Systems Performance Engineering](https://learning.oreilly.com/library/view/ai-systems-performance/9798341627772/) By Chris Fregly** | 📅 [Join Live!](https://luma.com/r217e3a3)
-- 📗 **Mar 2026: [AI Engineering](https://learning.oreilly.com/library/view/context-engineering-for/9781806690053/) By Denis Rothman** | 📅 [Join Live!](https://luma.com/6mocgoum)
+- 📗 **Mar 2026: [Context Engineering for Multi-Agent Systems](https://learning.oreilly.com/library/view/context-engineering-for/9781806690053/) By Denis Rothman** | 📅 [Join Live!](https://luma.com/6mocgoum)
 
 ---
 
