@@ -29,7 +29,7 @@
 
 ## 📖 **2025 AI Book Club Reading List:**  
 
-- 📗 **Jan 2025: [Building LLMs for Production](https://learning.oreilly.com/library/view/building-llms-for/9798324731472/) By Louis-Francois Bouchard, Louie Peters**  | 🎥 [Recording](https://www.youtube.com/watch?v=rFdW_jZHYeQ)  
+- 📗 **Jan 2025: [Building LLMs for Production](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) By Louis-Francois Bouchard, Louie Peters**  | 🎥 [Recording](https://www.youtube.com/watch?v=rFdW_jZHYeQ)  
 - 📗 **Feb 2025: [RAG-Driven Generative AI](https://learning.oreilly.com/library/view/rag-driven-generative-ai/9781836200918/) By Denis Rothman** | 🎥 [Recording](https://www.youtube.com/watch?v=s9F56ZADpyw)  
 - 📗 **Mar 2025: [AI Engineering](https://learning.oreilly.com/library/view/ai-engineering/9781098166298/) By Chip Huyen** | 🎥 [Recording](https://www.youtube.com/watch?v=SfdLD6QMN-M)
 - 📗 **Apr 2025: [AI Book Club: AI Agents in Action](https://www.manning.com/books/ai-agents-in-action) By Micheal Lanham** | 🎥 [Recording](https://www.youtube.com/watch?v=iOqvrgxQBSM)  
