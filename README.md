@@ -16,7 +16,7 @@
 
 ## 🟢 **Currently Reading:**  
 📖 **Jan 2026: [Hands-On Machine Learning with Scikit-Learn and PyTorch
-](https://learning.oreilly.com/library/view/building-llms-for/9798324731472/) By Aurélien Géron**  | 📅 [Join Live!](https://luma.com/icapnnju9)
+](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) By Aurélien Géron**  | 📅 [Join Live!](https://luma.com/icapnnju9) | 📅 [Join Live!](https://luma.com/icapnnju9)
 
 ---
 ## 📖 **2026 AI Book Club Reading List:**  
