@@ -15,13 +15,22 @@
 ---
 
 ## 🟢 **Currently Reading:**  
-📖  **Feb 2026: [AI Systems Performance Engineering](https://learning.oreilly.com/library/view/ai-systems-performance/9798341627772/) By Chris Fregly** | 📅 [Join Live!](https://luma.com/r217e3a3)
+📖 **Oct 2026: [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) By Miguel Morales** | 📅 [Join Live!](https://luma.com/khawhy87)
 
 ---
 ## 📖 **2026 AI Book Club Reading List:**  
-- 📗 **Jan 2026: [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) By Aurélien Géron**  | 📅 [Join Live!]([https://luma.com/icapnnju9](https://luma.com/icapnnju)
-- 📖  **Feb 2026: [AI Systems Performance Engineering](https://learning.oreilly.com/library/view/ai-systems-performance/9798341627772/) By Chris Fregly** | 📅 [Join Live!](https://luma.com/r217e3a3)
-- 📘 **Mar 2026: [Context Engineering for Multi-Agent Systems](https://learning.oreilly.com/library/view/context-engineering-for/9781806690053/) By Denis Rothman** | 📅 [Join Live!](https://luma.com/6mocgoum)
+- 📗 **Jan 2026: [Hands-On Machine Learning with Scikit-Learn and PyTorch](https://www.oreilly.com/library/view/hands-on-machine-learning/9798341607972/) By Aurélien Géron** | 📅 [Join Live!](https://luma.com/icapnnju)
+- 📗 **Feb 2026: [AI Systems Performance Engineering](https://learning.oreilly.com/library/view/ai-systems-performance/9798341627772/) By Chris Fregly** | 📅 [Join Live!](https://luma.com/r217e3a3)
+- 📗 **Mar 2026: [Context Engineering for Multi-Agent Systems](https://learning.oreilly.com/library/view/context-engineering-for/9781806690053/) By Denis Rothman** | 📅 [Join Live!](https://luma.com/6mocgoum)
+- 📗 **Apr 2026: [Designing Data-Intensive Applications, 2nd Edition](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/) By Martin Kleppmann, Chris Riccomini** | 📅 [Join Live!](https://luma.com/ov1shwzp)
+- 📗 **May 2026: [Build a Text-to-Image Generator (from Scratch)](https://www.manning.com/books/build-a-text-to-image-generator-from-scratch) By Mark Liu** | 📅 [Join Live!](https://luma.com/zo2jbdp7)
+- 📗 **Jun 2026: [Agentic Architectural Patterns for Building Multi-Agent Systems](https://learning.oreilly.com/library/view/agentic-architectural-patterns/9781806029570/) By Dr. Ali Arsanjani, Juan Pablo Bustos** | 📅 [Join Live!](https://luma.com/jzp46kbo)
+- 📗 **Jul 2026: [RAG with Python Cookbook](https://learning.oreilly.com/library/view/rag-with-python/9798341600553/) By Dominik Polzer** | 📅 [Join Live!](https://luma.com/21u2od0s)
+- 📗 **Aug 2026: [Build a Reasoning Model (From Scratch)](https://www.manning.com/books/build-a-reasoning-model-from-scratch) By Sebastian Raschka** | 📅 [Join Live!](https://luma.com/j0l3hy2z)
+- 📗 **Sep 2026: [Vision Language Models](https://learning.oreilly.com/library/view/vision-language-models/9798341624030/) By Merve Noyan, Andrés Marafioti, Miquel Farré, Orr Zohar** | 📅 [Join Live!](https://luma.com/0yhxodrp)
+- 📖 **Oct 2026: [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning) By Miguel Morales** | 📅 [Join Live!](https://luma.com/khawhy87)
+- 📘 **Nov 2026: [Reinforcement Learning from Human Feedback](https://www.manning.com/books/reinforcement-learning-from-human-feedback) By Nathan Lambert** | 📅 [Join Live!](https://luma.com/5w7avnra)
+- 📘 **Dec 2026: [An Illustrated Guide to AI Agents](https://learning.oreilly.com/library/view/an-illustrated-guide/9798341662681/) By Maarten Grootendorst, Jay Alammar** | 📅 [Join Live!](https://luma.com/ols3fqbu)
 
 ---
 
@@ -74,4 +83,4 @@ _(Click to view on O'Reilly, but books are usually available most places)_
 📅 **Join the [AI Builders and Learners Meetup](https://www.meetup.com/ai-builders-and-learners-seattle/) for future events.**  
 💬 **Chat anytime in the ["ai-reading-club" Slack channel](https://slack.flyte.org/).**  
 
-Let’s build knowledge together! 🚀  
+Let’s build knowledge together! 🚀
